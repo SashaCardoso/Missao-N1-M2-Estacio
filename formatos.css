@@ -1,0 +1,26 @@
+body {
+    background-color: lightgreen;
+}
+
+.header {
+    background-color: lightgrey;   
+    margin-bottom: 1vh;
+    padding: 1vh;
+}
+
+.center {
+    background-color: lightgreen;
+}
+
+.footer {
+    background-color: black;
+    color: white;
+    text-align: center;
+    font-size: x-large;
+    margin-top: 1vh;
+    height: 5vh;
+}
+
+.nav-link {
+    color: #5af
+}
